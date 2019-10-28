@@ -3,16 +3,27 @@
 body {
 	background-color: #0f1626;
 	color: #ff533d !important;
-}
-
-.item, .category {
 	font-family: 'Inconsolata', monospace !important;
 	font-size: 13px !important;
 }
 
+table {
+    width:80%;
+	margin-left: auto;
+	margin-right: auto;
+	vertical-align: middle;	
+	margin-top: 5%;
+}
+
+td {
+	padding: 80px;
+	text-align: center;
+	border: 5px solid #ff533d;
+}
+
 a, a:link {
-	   color: #ffffff !important;
-	   text-decoration: none !important;
+	color: #ffffff !important;
+	text-decoration: none !important;
 }
 
 a:hover {
