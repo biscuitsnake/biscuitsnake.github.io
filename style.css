@@ -2,7 +2,7 @@
 
 body {
 	background-color: #0f1626;
-	color: #ff533d !important;
+	color: #ffffff !important;
 	font-family: 'Inconsolata', monospace !important;
 	font-size: 13px !important;
 }
@@ -18,7 +18,15 @@ table {
 td {
 	padding: 80px;
 	text-align: center;
-	border: 5px solid #ff533d;
+	border: 1px solid #a72e2e;
+	height: 100%;
+	overflow: hidden;
+}
+
+td a {
+    display: block;
+    margin: -10em;
+    padding: 10em;
 }
 
 a, a:link {
@@ -27,7 +35,7 @@ a, a:link {
 }
 
 a:hover {
-	color: #90a959 !important;
+	color: #ab987a !important;
 	text-decoration: none !important;
 }
 
@@ -68,7 +76,7 @@ div.item {
 div.category {
 	margin-right: 70% !important;
 	text-align: right !important;
-	color: #bb3333;
+	color: #a72e2e;
 	float: right;
 	display: table;
 	position: absolute;
