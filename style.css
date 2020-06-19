@@ -44,7 +44,7 @@ li {
 }
 
 ul {
-	text-align: left !important;
+	text-align: left;
 	padding-left: 13px !important;
 }
 
@@ -82,6 +82,21 @@ div.category {
 	position: absolute;
 	right: 0px;
 	top: 30%;
+}
+
+div.chall {
+	margin-right: 70% !important;
+	text-align: right;
+	color: #a72e2e;
+	float: right;
+	display: table;
+	position: absolute;
+	right: 0px;
+	top: 30%;
+}
+
+ul#chall {
+	text-align: right !important;
 }
 
 ul li#category {
