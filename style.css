@@ -1,7 +1,7 @@
 body {
 	background-color: #0f1626;
-	color: #ffffff;
 	font-family: courier;
+	font-size: 14px;
 }
 
 table {
@@ -15,7 +15,6 @@ table {
 td {
 	padding: 80px;
 	text-align: center;
-	border: 1px solid #a72e2e;
 	height: 100%;
 	overflow: hidden;
 }
@@ -27,12 +26,12 @@ td a {
 }
 
 a, a:link {
-	color: #ffffff;
+	color: #f8e9c8;
 	text-decoration: none;
 }
 
 a:hover {
-	color: #ab987a;
+	color: #e4b014;
 }
 
 li {
@@ -51,7 +50,7 @@ ul li {
 }
 
 ul li:after {
-	color: #ab987a;
+	color: #e4b014;
 	content: " //";
 }
 
@@ -72,7 +71,8 @@ div.item {
 div.category {
 	margin-right: 70%;
 	text-align: right;
-	color: #a72e2e;
+	font-weight: bold;
+	color: #d41713;
 	float: right;
 	display: table;
 	position: absolute;
