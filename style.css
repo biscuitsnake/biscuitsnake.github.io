@@ -26,12 +26,12 @@ td a {
 }
 
 a, a:link {
-	color: #f8e9c8;
+	color: #FEFCFB;
 	text-decoration: none;
 }
 
 a:hover {
-	color: #e4b014;
+	color: #7BD389;
 }
 
 li {
@@ -50,7 +50,7 @@ ul li {
 }
 
 ul li:after {
-	color: #e4b014;
+	color: #7BD389;
 	content: " //";
 }
 
@@ -71,8 +71,8 @@ div.item {
 div.category {
 	margin-right: 70%;
 	text-align: right;
-	font-weight: bold;
-	color: #d41713;
+	font-weight: 900;
+	color: #9C0D38;
 	float: right;
 	display: table;
 	position: absolute;
@@ -83,7 +83,6 @@ div.category {
 div.chall {
 	margin-right: 70%;
 	text-align: right;
-	color: #a72e2e;
 	float: right;
 	display: table;
 	position: absolute;
