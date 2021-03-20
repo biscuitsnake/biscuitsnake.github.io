@@ -26,12 +26,12 @@ td a {
 }
 
 a, a:link {
-	color: #FEFCFB;
+	color: #F0E9D9;
 	text-decoration: none;
 }
 
 a:hover {
-	color: #f8e9c8;
+	color: #F59576;
 }
 
 li {
@@ -50,7 +50,7 @@ ul li {
 }
 
 ul li:after {
-	color: #f8e9c8;
+	color: #F59576;
 	content: " //";
 }
 
@@ -72,7 +72,6 @@ div.category {
 	margin-right: 70%;
 	text-align: right;
 	font-weight: 900;
-	color: #9C0D38;
 	float: right;
 	display: table;
 	position: absolute;
